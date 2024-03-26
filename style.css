@@ -17,7 +17,7 @@ figcaption {
     font-size: large;
 }
 img, picture, video {
-    max-width: 50%;
+    width: 50%;
  }
 
  #carrington {
