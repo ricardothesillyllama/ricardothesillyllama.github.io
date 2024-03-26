@@ -16,12 +16,10 @@ figcaption {
     list-style-position: inside;
     font-size: large;
 }
-img {
-    max-width: 70%;
+img, video {
+    max-width: 50%;
  }
- video {
-    max-width: 70%;
- }
+
  #carrington {
     transform: rotate(270deg);
  }
