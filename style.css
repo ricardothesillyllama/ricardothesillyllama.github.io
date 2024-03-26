@@ -7,13 +7,12 @@ body {
     font-family: didot;
     background-image: repeating-linear-gradient(to bottom right, #ffcccb , pink, white);
 }
-figcaption {
+figcaption, audio {
     text-align: center;
 }
 
 .content {
     text-align: center;
-    list-style-position: inside;
     font-size: large;
 }
 img, picture, video {
