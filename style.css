@@ -18,6 +18,7 @@ figcaption {
 }
 img, picture, video {
     width: 50%;
+    height: 75%
  }
 
  #carrington {
