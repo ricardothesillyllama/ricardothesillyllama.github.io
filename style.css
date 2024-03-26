@@ -17,10 +17,10 @@ figcaption {
     font-size: large;
 }
 img {
-    max-width: 800px;
+    max-width: 70%;
  }
  video {
-    max-width: 800px;
+    max-width: 70%;
  }
  #carrington {
     transform: rotate(270deg);
