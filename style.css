@@ -16,7 +16,7 @@ figcaption {
     list-style-position: inside;
     font-size: large;
 }
-img, video {
+img, picture, video {
     max-width: 50%;
  }
 
